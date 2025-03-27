@@ -1,0 +1,49 @@
+- menu
+    - fix socials - done
+    - contact number - done
+
+
+- features
+ - generate
+ - review
+ - summarize
+ - create headers
+ - publish
+ - resources
+ - images
+
+
+- fix home (logo) - done
+
+
+
+- home page
+    - MkDocMaker title logo - done
+    - carousel images done
+        - 3just single
+
+    - Main benefits x 6 (instead of services) - done
+        - icon
+        - title
+        - short paragraph
+
+    - testimonials  - hidden
+        - text
+        - name
+        - title, YourCompany
+        - portrait
+
+    - See more? Call to formspree_action
+
+    - Create some blog entries
+        - getting started - done
+
+    - create FAQ
+
+    - contact
+        - regsiter email contact
+        
+
+
+
+

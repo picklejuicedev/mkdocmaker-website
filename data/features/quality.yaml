@@ -1,0 +1,5 @@
+weight: 3
+name: "Quality"
+icon: "fas fa-thumbs-up"
+url: ""
+description: "Get rought notes reviewed and turned into quality text. Developers should focuse on writing code, not documentation. Let AI do the heavy lifting."
