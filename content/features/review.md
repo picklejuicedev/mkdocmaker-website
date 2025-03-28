@@ -8,9 +8,6 @@ title = 'Review'
 
 ![Demo](/img/features/reviewmess.gif)
 
-//use ../../blog/*.*
-// describe how to use mkdoc maker to review content
-//ignore
 
 MkDoc Maker offers several ways to review and refine your chapter content, leveraging its AI-powered capabilities to improve clarity, grammar, and overall quality.
 
