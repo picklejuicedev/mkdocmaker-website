@@ -66,7 +66,7 @@ The review feature can be used to alter layout and formatting. Use a `// note` t
 
 Here an example where a codeblock was pasted into the document and then reformatted:
 
-![review formatting](/img/features/reviewReformat.gif)
+![review formatting](/img/features/reviewreformat.gif)
 
 
 **Tips for Effective Reviewing:**
