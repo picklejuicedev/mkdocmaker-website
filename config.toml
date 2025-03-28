@@ -21,7 +21,7 @@ pluralizelisttitles = false
 Shortname = ""
 [services.googleAnalytics]
 # Enable Google Analytics by entering your tracking code
-id = ""
+id = "G-VMPFR5RDJ6"
 
 [menu]
 
