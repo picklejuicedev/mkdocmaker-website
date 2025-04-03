@@ -1,5 +1,5 @@
 +++
-title = "MkDocMaker - AI generated technical markdown documentation (FAQ)"
+title = "FAQ - working with AI generated technical docs"
 description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++

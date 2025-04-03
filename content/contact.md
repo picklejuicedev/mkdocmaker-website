@@ -1,5 +1,5 @@
 +++
-title = "MkDocMaker - AI generated technical markdown documentation (Contact)"
+title = "MkDocMaker - Get in touch!"
 id = "contact"
 +++
 

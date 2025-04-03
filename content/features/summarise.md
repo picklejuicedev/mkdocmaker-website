@@ -1,10 +1,10 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'MkDocMaker - AI generated technical markdown documentation (Summarise)'
+title = 'Automatically Summarizing Content'
 +++
 
-# Auto-Summary
+## The `//summary` command
 
 Let's say you want to add an overview or summary to a document. You can use the `//sum` or `//summary` prompt. It will use any selected text so you can control what part of the document you want to summaries. If no text is selected it will use the current chapter where the command is located and include all sub-chapters.
 

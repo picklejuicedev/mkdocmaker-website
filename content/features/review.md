@@ -1,10 +1,10 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'MkDocMaker - AI generated technical markdown documentation (Review)'
+title = 'Using AI to review selected text or chapters'
 +++
 
-# Review Chapter content
+## The `//review` command
 
 ![Demo](/img/features/reviewmess.gif)
 

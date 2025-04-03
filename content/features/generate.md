@@ -1,10 +1,10 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'MkDocMaker - AI generated technical markdown documentation (Generate)'
+title = 'Auto-generating chapter content'
 +++
 
-## Generate Chapter content
+## The `//generate` command
 
 MkDoc Maker offers a variety of prompts to help you generate different types of content. The one that is used the most is the `generate` command (or its aliases `gen` or `generateChapter`). This command instructs MkDoc Maker to generate content for the current chapter based on the available context.
 

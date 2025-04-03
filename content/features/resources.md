@@ -1,10 +1,10 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'MkDocMaker - AI generated technical markdown documentation (Resources)'
+title = 'Using resources to auto-generate documention'
 +++
 
-# Using Resources
+## Using Resources - The `//use` command
 
 For many projects we have useful information embedded in code, pdfs, screen shots, manuals etc. All those files acan be used to generate our documentation by including those files when generating chapters.
 
