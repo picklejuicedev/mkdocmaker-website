@@ -1,7 +1,7 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'Create headers'
+title = 'MkDocMaker - AI generated technical markdown documentation (Create headers)'
 +++
 
 # Autogenerating Chapter Headers

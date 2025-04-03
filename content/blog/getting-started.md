@@ -1,5 +1,5 @@
 +++
-title = "Getting Started"
+title = "MkDocMaker - AI generated technical markdown documentation (Getting Started)"
 date = "2025-03-21T11:29:20+02:00"
 tags = ["markdown", "documentation", "beginner"]
 categories = ["tutorials","markdown"]

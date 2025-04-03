@@ -1,5 +1,5 @@
 +++
 date = '{{ .Date }}'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = 'MkDocMaker - AI generated technical markdown documentation ({{ replace .File.ContentBaseName "-" " " | title }})'
 +++

@@ -1,5 +1,5 @@
 baseurl = "https://mkdocmaker.com/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "MkDoc Maker"
+title = "MkDocMaker - AI generated technical markdown documentation for VS Code"
 theme = "hugo-universal-theme"
 
 languageCode = "en-us"
@@ -126,10 +126,10 @@ id = "G-VMPFR5RDJ6"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Picklejuice Limited"
+    defaultKeywords = ["markdown", "documentation", "ai", "automate content generation"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Generate technical documentation with AI using VS code extension MkDocMaker."
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')

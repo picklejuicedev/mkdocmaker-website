@@ -1,7 +1,7 @@
 +++
 date = '2025-03-20T12:49:08Z'
 draft = false
-title = 'Images'
+title = 'MkDocMaker - AI generated technical markdown documentation (Images)'
 +++
 
 # Using Image references
