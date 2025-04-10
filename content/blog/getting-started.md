@@ -108,21 +108,8 @@ Let's add this screen shot of VS Code when setting up the Extension and ask it t
   ![register](/img/blog/getting-started/registerNew.png)
 
 - Then insert a reference to it in your markdown file like this:
-    ```markdown
-    # Welcome to MkDoc Maker
-    
-    ## Create an account
-    
-    ![register](/images/registerNew.png)
-    
-    //generate
-    
-    
-    ## Markdown Syntax
-    
-    // Limit the output to 100 lines and put them in a table.
-    //ignore
-    ```
+   
+   ![registermkdown](/img/blog/getting-started/registerMarkdown.png)
 
 - (note to change the command in the markdown syntax chapter to "//ignore" as we don't want to run this)
 - If you now run the extension, it will analyse the image and consider it in its response.
