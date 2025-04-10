@@ -105,7 +105,7 @@ Let's add this screen shot of VS Code when setting up the Extension and ask it t
 **Images**
 
 - save this image to into your `images` folder:
-  ![register](/img/blog/getting-started/register.png)
+  ![register](/img/blog/getting-started/registerNew.png)
 
 - Then insert a reference to it in your markdown file like this:
     ```markdown
@@ -113,7 +113,7 @@ Let's add this screen shot of VS Code when setting up the Extension and ask it t
     
     ## Create an account
     
-    ![register](/images/register.png)
+    ![register](/images/registerNew.png)
     
     //generate
     
